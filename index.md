@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<section>
 
-You can use the [editor on GitHub](https://github.com/MuhammadDanyal/muhammaddaniyal.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+      <h2 >Portfolio</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>I am a Web Developer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.</p>
 
-### Markdown
+<hr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 id="skills">Skills</h2>
 
-```markdown
-Syntax highlighted code block
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" width="auto" alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40">
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40">
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+<hr>
 
-- Bulleted
-- List
+<h2 id="experience">Experience</h2>
 
-1. Numbered
-2. List
+<h3 id="senior-frontend-developer"><strong>SENIOR FRONTEND DEVELOPER</strong></h3>
+<h3 id="miro">MIRO</h3>
 
-**Bold** and _Italic_ and `Code` text
+<p>Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides</p>
 
-[Link](url) and ![Image](src)
-```
+<h3 id="frontend-developer"><strong>FRONTEND DEVELOPER</strong></h3>
+<h3 id="bookingcom">Booking.com</h3>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<p>Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.</p>
 
-### Jekyll Themes
+<h3 id="software-developer"><strong>Web DEVELOPER</strong></h3>
+<h3 id="nagarro-pvt-ltd">Vexxor Technologies</h3>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MuhammadDanyal/muhammaddaniyal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers</p>
 
-### Support or Contact
+<hr>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2 id="education">Education</h2>
+
+<h3 ><strong>UET, Taxila</strong></h3>
+<h3 >Bsc Software Engineering (2014- 2018)</h3>
+<p>GPA 2.94</p>
+
+<hr>
+
+<h3 id="interests">INTERESTS</h3>
+<p>Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.</p>
+
+<p>I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.</p>
+
+
+      </section>
