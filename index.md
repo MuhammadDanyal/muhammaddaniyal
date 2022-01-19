@@ -21,7 +21,7 @@
 <h2 id="experience">Experience</h2>
 
 <h3 ><strong>Web DEVELOPER</strong></h3>
-<h3 id="miro">MIRO</h3>
+
 
 <p>Coordinate internal resources and third parties/vendors for the flawless execution of projects<br>
 Build the structure for new projects and implement it<br>
