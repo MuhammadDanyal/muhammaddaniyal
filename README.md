@@ -42,16 +42,8 @@ working with lead conversion team throughout the project life cycle i.e from lea
 
 <h2 id="education">Education</h2>
 
-<h3 id="guru-nanak-dev-university"><strong>GURU NANAK DEV UNIVERSITY</strong></h3>
-<h3 id="btech-computer-science-2012--2016">BTech Computer Science (2012- 2016)</h3>
-<p>GPA 8.75</p>
-
-<hr>
-
-<h3 id="interests">INTERESTS</h3>
-<p>Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.</p>
-
-<p>I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.</p>
+<h3 ><strong>UET,Taxila</strong></h3>
+<h3 >Software Engineering</h3>
 
 
-      </section>
+ </section>
