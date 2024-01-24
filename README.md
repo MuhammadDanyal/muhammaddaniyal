@@ -2,9 +2,6 @@
 
       <h2 >Portfolio</h2>
 
-<p>I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.</p>
-
-<hr>
 
 <h2 id="skills">Skills</h2>
 
